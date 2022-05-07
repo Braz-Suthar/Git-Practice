@@ -1,2 +1,4 @@
 Hi, this is Braz here !
+We are now working on the new feature in new-feature branch.
 Fixed a bug cause of an emergency in emergency-fix branch.
+This line is added after the fixing bugs cuase of the emergency.
