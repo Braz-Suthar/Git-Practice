@@ -4,3 +4,4 @@ Fixed a bug cause of an emergency in emergency-fix branch.
 This line is added after the fixing bugs cuase of the emergency.
 This line is added after setting the remote repo.
 This line is added after setting the remote repo to practice the Pull command.
+This line is added in local repo to practice the push command.
