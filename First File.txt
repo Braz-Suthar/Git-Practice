@@ -1,2 +1,3 @@
 Hi, this is Braz here !
 We are now working on the new feature in new-feature branch.
+This line is added after the fixing bugs cuase of the emergency.
