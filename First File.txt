@@ -1,1 +1,2 @@
 Hi, this is Braz here !
+Fixed a bug cause of an emergency in emergency-fix branch.
