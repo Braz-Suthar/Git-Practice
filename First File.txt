@@ -5,5 +5,3 @@ This line is added after the fixing bugs cuase of the emergency.
 This line is added after setting the remote repo.
 This line is added after setting the remote repo to practice the Pull command.
 This line is added in local repo to practice the push command.
-This line is added after creating a new branch on the remote repo named new-branch-on-remote-repo.
-This line is added after creating a new branch on the local repo named new-feature-update.
